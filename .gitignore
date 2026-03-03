@@ -1,0 +1,21 @@
+# Claude Code
+.claude/
+
+# .NET
+bin/
+obj/
+*.user
+.vs/
+
+# Build output
+out/
+publish/
+
+# NuGet
+*.nupkg
+.nuget/
+
+# Test results
+TestResults/
+*.trx
+*.coveragexml

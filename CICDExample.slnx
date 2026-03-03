@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/CICDExample.Api/CICDExample.Api.csproj" />
+  <Project Path="tests/CICDExample.Tests/CICDExample.Tests.csproj" />
+</Solution>
