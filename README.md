@@ -1,1 +1,1 @@
-# CICDExample
+# CIExample
